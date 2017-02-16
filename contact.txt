@@ -105,3 +105,21 @@ f2013843@pilani.bits-pilani.ac.in
 2013B2A1843P
 8503862412
 139.59.57.39
+
+Rahul Saxena
+2016A7PS027P
+9999097792
+github.coom/rsaxena-cs
+Droplet IP: 128.199.243.204
+
+Amit Tiwary
+2015B1A3818P
+8334036462
+github.com/amittiwary42
+
+Vishal Singh
+f2016625@pilani.bits-pilani.ac.in
+2016b4ps625p
+8233229565
+139.59.43.16
+
